@@ -53,5 +53,6 @@ public class Main {
         }
         System.out.println("\nTotal Taxes: " + totalTaxes);
         sc.close();
+        
     }
 }
